@@ -1,0 +1,4 @@
+#Mon Jul 03 08:07:00 IST 2023
+base.0=/Users/narottamkalo/Documents/Applications Development/learningdarts2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
